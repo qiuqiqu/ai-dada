@@ -18,6 +18,12 @@
         <java.version>1.8</java.version>
     </properties>
     <dependencies>
+        <!-- https://open.bigmodel.cn/dev/api -->
+        <dependency>
+            <groupId>cn.bigmodel.openapi</groupId>
+            <artifactId>oapi-java-sdk</artifactId>
+            <version>release-V4-2.0.2</version>
+        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-freemarker</artifactId>

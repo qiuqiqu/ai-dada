@@ -72,3 +72,6 @@ knife4j:
         api-rule: package
         api-rule-resources:
           - com.gy.aida.controller
+#AI配置
+ai:
+  apiKey: 47dbbbc47c8f72737772ddd0bceef193.54oPGgbKZxOJGf78
